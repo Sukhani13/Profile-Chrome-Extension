@@ -22,7 +22,7 @@ Wondering who is gonna build that classy thing for you?🤔🤔 Look no further.
 
 <h2 align= "center"><b> Lets see what we have here 👀: </b></h2>
 
-url(![snapshot](https://user-images.githubusercontent.com/56729873/82945308-5068cb80-9fba-11ea-8ff8-0a6fd70c7678.png))
+![snapshot](https://user-images.githubusercontent.com/56729873/82945308-5068cb80-9fba-11ea-8ff8-0a6fd70c7678.png)
 
 
 # **Crafted with ❤ by Sparsh Garg**
