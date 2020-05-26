@@ -1,0 +1,12 @@
+{
+  "manifest_version": 2,
+  "name": "My Profile Hub",
+  "description": "All of my work profiles under the same roof!",
+  "version": "1.0.0",
+  "icons": { "128": "assets/sparsh_profile_icon_big.png" },
+  "browser_action": {
+    "default_icon": "assets/sparsh_profile_icon_small.png",
+    "default_popup": "popup.html"
+  },
+  "permissions": ["activeTab","storage"]
+}
